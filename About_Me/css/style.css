@@ -1,0 +1,147 @@
+/* top of each page */
+
+.flowers	
+{
+	width: 100%;
+	height: auto;
+}
+
+h1 	
+{
+	font-family:cursive,"Times New Roman";
+	text-align:center;
+}	
+
+#menubar	
+{
+	width:100%;
+	background:#DB7093;
+	text-align:center;
+}
+
+#menubar th 	
+{
+	font-family:cursive, "Times New Roman";
+	text-align:center;
+}
+
+/*all text styling*/
+
+p	
+{
+	font-family: "Times New Roman";
+}
+
+/*About Me Page*/
+
+.me	
+{
+	width:500px;
+	height:600px;
+	float: right;
+	padding: 0px 20px 20px 0px;
+}
+
+/*My Hobbies Page*/
+
+.hobbies	
+{
+	list-style-type:circle;
+}
+
+/*My Achievements Page*/
+
+.myachievements	
+{
+	width:100%;
+	border: 1px solid #DB7093;
+	border-collapse:collapse;
+	table-layout:fixed;
+}
+
+.myachievements th,td
+{
+	text-align:center;
+	border: 1px solid #DB7093;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.myachievements ul	
+{
+	text-align:left;
+	list-style-type: square;
+}
+
+
+caption	
+{
+	caption-side:bottom;	
+	text-align:left;
+	font-size:110%;
+}	
+
+.bullets 
+{
+	vertical-align:top;
+
+}
+
+/*baking page*/
+
+img	
+{
+	width:300px;
+	height:300px;
+}
+
+
+figure	
+{
+	text-align:center;
+	font-style:italic;
+}
+
+
+.baking td	
+{
+	border:#FFFFFF;
+}
+
+/*holiday images page*/
+
+.holiday td	
+{
+	border:#FFFFFF;
+}
+
+a:hover	
+{
+	text-decoration:none;
+}
+
+a:visited	
+{
+	color:#8B2252;
+}
+
+a:active	
+{
+	color:black;
+}
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+	
+
